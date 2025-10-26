@@ -1,0 +1,12 @@
+a p {
+    margin: 0;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-size: larger;
+}
+
+a p:hover {
+    background-color: white;
+}

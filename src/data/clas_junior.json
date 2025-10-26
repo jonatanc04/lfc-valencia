@@ -1,0 +1,44 @@
+{
+  "clasificacion": [
+    {
+      "id": 1,
+      "nombre": "Richi Puchades",
+      "imagen": "richi.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Edu González",
+      "imagen": "edu.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Mario Giménez",
+      "imagen": "mario.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Erik del Río",
+      "imagen": ""
+    },
+    {
+      "id": 5,
+      "nombre": "Alejandro González",
+      "imagen": ""
+    },
+    {
+      "id": 6,
+      "nombre": "Luis Villegas",
+      "imagen": "luis.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Cristian Gallardo",
+      "imagen": "cristian.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Adrián Sánchez",
+      "imagen": ""
+    }
+  ]
+}

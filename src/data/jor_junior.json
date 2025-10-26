@@ -1,0 +1,144 @@
+{
+  "jornadas": [
+    {
+      "numero": 1,
+      "fecha": "26/oct/2025",
+      "partidos": [
+        {"jugador1": "Adrián Sánchez", "jugador2": "Alejandro González", "resultado": "1-1"},
+        {"jugador1": "Mario Giménez", "jugador2": "Luis Villegas", "resultado": ""},
+        {"jugador1": "Richi Puchades", "jugador2": "Cristian Gallardo", "resultado": "0-1"},
+        {"jugador1": "Erik del Río", "jugador2": "Edu González", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 2,
+      "fecha": "26/oct/2025",
+      "partidos": [
+        {"jugador1": "Luis Villegas", "jugador2": "Adrián Sánchez", "resultado": "0-0"},
+        {"jugador1": "Cristian Gallardo", "jugador2": "Alejandro González", "resultado": "1-1"},
+        {"jugador1": "Edu González", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Erik del Río", "jugador2": "Richi Puchades", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 3,
+      "fecha": "23/nov/2025",
+      "partidos": [
+        {"jugador1": "Adrián Sánchez", "jugador2": "Cristian Gallardo", "resultado": ""},
+        {"jugador1": "Luis Villegas", "jugador2": "Edu González", "resultado": ""},
+        {"jugador1": "Alejandro González", "jugador2": "Erik del Río", "resultado": "3-4"},
+        {"jugador1": "Mario Giménez", "jugador2": "Richi Puchades", "resultado": "1-2"}
+      ]
+    },
+    {
+      "numero": 4,
+      "fecha": "23/nov/2025",
+      "partidos": [
+        {"jugador1": "Edu González", "jugador2": "Adrián Sánchez", "resultado": ""},
+        {"jugador1": "Erik del Río", "jugador2": "Cristian Gallardo", "resultado": "2-1"},
+        {"jugador1": "Richi Puchades", "jugador2": "Luis Villegas", "resultado": "1-1"},
+        {"jugador1": "Mario Giménez", "jugador2": "Alejandro González", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 5,
+      "fecha": "21/dic/2025",
+      "partidos": [
+        {"jugador1": "Adrián Sánchez", "jugador2": "Erik del Río", "resultado": ""},
+        {"jugador1": "Edu González", "jugador2": "Richi Puchades", "resultado": ""},
+        {"jugador1": "Cristian Gallardo", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Luis Villegas", "jugador2": "Alejandro González", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 6,
+      "fecha": "21/dic/2025",
+      "partidos": [
+        {"jugador1": "Richi Puchades", "jugador2": "Adrián Sánchez", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Erik del Río", "resultado": ""},
+        {"jugador1": "Alejandro González", "jugador2": "Edu González", "resultado": ""},
+        {"jugador1": "Luis Villegas", "jugador2": "Cristian Gallardo", "resultado": "1-4"}
+      ]
+    },
+    {
+      "numero": 7,
+      "fecha": "18/ene/2026",
+      "partidos": [
+        {"jugador1": "Adrián Sánchez", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Richi Puchades", "jugador2": "Alejandro González", "resultado": "3-0"},
+        {"jugador1": "Erik del Río", "jugador2": "Luis Villegas", "resultado": "2-1"},
+        {"jugador1": "Edu González", "jugador2": "Cristian Gallardo", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 8,
+      "fecha": "18/ene/2026",
+      "partidos": [
+        {"jugador1": "Alejandro González", "jugador2": "Adrián Sánchez", "resultado": ""},
+        {"jugador1": "Luis Villegas", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Cristian Gallardo", "jugador2": "Richi Puchades", "resultado": ""},
+        {"jugador1": "Edu González", "jugador2": "Erik del Río", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 9,
+      "fecha": "01/mar/2026",
+      "partidos": [
+        {"jugador1": "Adrián Sánchez", "jugador2": "Luis Villegas", "resultado": ""},
+        {"jugador1": "Alejandro González", "jugador2": "Cristian Gallardo", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Edu González", "resultado": ""},
+        {"jugador1": "Richi Puchades", "jugador2": "Erik del Río", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 10,
+      "fecha": "01/mar/2026",
+      "partidos": [
+        {"jugador1": "Cristian Gallardo", "jugador2": "Adrián Sánchez", "resultado": ""},
+        {"jugador1": "Edu González", "jugador2": "Luis Villegas", "resultado": ""},
+        {"jugador1": "Erik del Río", "jugador2": "Alejandro González", "resultado": ""},
+        {"jugador1": "Richi Puchades", "jugador2": "Mario Giménez", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 11,
+      "fecha": "29/mar/2026",
+      "partidos": [
+        {"jugador1": "Adrián Sánchez", "jugador2": "Edu González", "resultado": ""},
+        {"jugador1": "Cristian Gallardo", "jugador2": "Erik del Río", "resultado": ""},
+        {"jugador1": "Luis Villegas", "jugador2": "Richi Puchades", "resultado": ""},
+        {"jugador1": "Alejandro González", "jugador2": "Mario Giménez", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 12,
+      "fecha": "29/mar/2026",
+      "partidos": [
+        {"jugador1": "Erik del Río", "jugador2": "Adrián Sánchez", "resultado": ""},
+        {"jugador1": "Richi Puchades", "jugador2": "Edu González", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Cristian Gallardo", "resultado": ""},
+        {"jugador1": "Alejandro González", "jugador2": "Luis Villegas", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 13,
+      "fecha": "31/may/2026",
+      "partidos": [
+        {"jugador1": "Adrián Sánchez", "jugador2": "Richi Puchades", "resultado": ""},
+        {"jugador1": "Erik del Río", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Edu González", "jugador2": "Alejandro González", "resultado": ""},
+        {"jugador1": "Cristian Gallardo", "jugador2": "Luis Villegas", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 14,
+      "fecha": "31/may/2026",
+      "partidos": [
+        {"jugador1": "Mario Giménez", "jugador2": "Adrián Sánchez", "resultado": ""},
+        {"jugador1": "Alejandro González", "jugador2": "Richi Puchades", "resultado": ""},
+        {"jugador1": "Luis Villegas", "jugador2": "Erik del Río", "resultado": ""},
+        {"jugador1": "Cristian Gallardo", "jugador2": "Edu González", "resultado": ""}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "jornadas": [
+    {
+      "numero": 1,
+      "fecha": "26/oct/2025",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Aarón D. Nevado", "resultado": "3-3"},
+        {"jugador1": "José Trilles", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Paco Villegas", "resultado": "2-0"},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Pablo Arquimbau", "resultado": "2-6"},
+        {"jugador1": "Ximo Sala", "jugador2": "José Luis Fernández", "resultado": "0-1"},
+        {"jugador1": "Álex Hervás", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 2,
+      "fecha": "26/oct/2025",
+      "partidos": [
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Aarón D. Nevado", "resultado": "1-4"},
+        {"jugador1": "Paco Villegas", "jugador2": "Juan R. Puchades", "resultado": "1-2"},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Adrián Iborra", "resultado": "1-0"},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Héctor Beltrán", "resultado": "0-3"},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 3,
+      "fecha": "26/oct/2025",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Roberto Arquimbau", "resultado": "2-3"},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Pablo Arquimbau", "resultado": "2-2"},
+        {"jugador1": "Juan R. Puchades", "jugador2": "José Luis Fernández", "resultado": "2-3"},
+        {"jugador1": "José Trilles", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Héctor Beltrán", "resultado": "1-4"},
+        {"jugador1": "Paco Villegas", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 4,
+      "fecha": "23/nov/2025",
+      "partidos": [
+        {"jugador1": "Paco Villegas", "jugador2": "Jonatan Córcoles", "resultado": "2-4"},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Héctor Beltrán", "resultado": "2-1"},
+        {"jugador1": "José Trilles", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 5,
+      "fecha": "23/nov/2025",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "José Luis Fernández", "resultado": "3-1"},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 6,
+      "fecha": "23/nov/2025",
+      "partidos": [
+        {"jugador1": "José Luis Fernández", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 7,
+      "fecha": "21/dic/2025",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Pablo Arquimbau", "resultado": "1-5"},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 8,
+      "fecha": "21/dic/2025",
+      "partidos": [
+        {"jugador1": "Miguel Ángel López", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 9,
+      "fecha": "21/dic/2025",
+      "partidos": [
+        {"jugador1": "Miguel Ángel López", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Ximo Sala", "resultado": "1-3"},
+        {"jugador1": "José Luis Fernández", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 10,
+      "fecha": "18/ene/2026",
+      "partidos": [
+        {"jugador1": "Álex Hervás", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 11,
+      "fecha": "18/ene/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 12,
+      "fecha": "18/ene/2026",
+      "partidos": [
+        {"jugador1": "Héctor Beltrán", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 13,
+      "fecha": "18/ene/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 14,
+      "fecha": "01/mar/2026",
+      "partidos": [
+        {"jugador1": "José Trilles", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 15,
+      "fecha": "01/mar/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 16,
+      "fecha": "01/mar/2026",
+      "partidos": [
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 17,
+      "fecha": "01/mar/2026",
+      "partidos": [
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 18,
+      "fecha": "29/mar/2026",
+      "partidos": [
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 19,
+      "fecha": "29/mar/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 20,
+      "fecha": "29/mar/2026",
+      "partidos": [
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 21,
+      "fecha": "29/mar/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 22,
+      "fecha": "31/may/2026",
+      "partidos": [
+        {"jugador1": "Juanfran Pérez", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 23,
+      "fecha": "31/may/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 24,
+      "fecha": "31/may/2026",
+      "partidos": [
+        {"jugador1": "Álex Hervás", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 25,
+      "fecha": "31/may/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 26,
+      "fecha": "14/jun/2026",
+      "partidos": [
+        {"jugador1": "Ximo Sala", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 27,
+      "fecha": "14/jun/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Adrián Iborra", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 28,
+      "fecha": "14/jun/2026",
+      "partidos": [
+        {"jugador1": "Adrián Iborra", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "José Trilles", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Juan R. Puchades", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Juanfran Pérez", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 29,
+      "fecha": "14/jun/2026",
+      "partidos": [
+        {"jugador1": "Jonatan Córcoles", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Juan R. Puchades", "resultado": ""},
+        {"jugador1": "Héctor Beltrán", "jugador2": "Aarón D. Nevado", "resultado": ""},
+        {"jugador1": "Álex Hervás", "jugador2": "Roberto Arquimbau", "resultado": ""},
+        {"jugador1": "Miguel Ángel López", "jugador2": "Pablo Arquimbau", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "José Luis Fernández", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Paco Villegas", "resultado": ""},
+        {"jugador1": "Ximo Sala", "jugador2": "Descansa", "resultado": ""}
+      ]
+    },
+    {
+      "numero": 30,
+      "fecha": "14/jun/2026",
+      "partidos": [
+        {"jugador1": "Juan R. Puchades", "jugador2": "Jonatan Córcoles", "resultado": ""},
+        {"jugador1": "Aarón D. Nevado", "jugador2": "José Trilles", "resultado": ""},
+        {"jugador1": "Roberto Arquimbau", "jugador2": "Héctor Beltrán", "resultado": ""},
+        {"jugador1": "Paco Villegas", "jugador2": "Ximo Sala", "resultado": ""},
+        {"jugador1": "Pablo Arquimbau", "jugador2": "Álex Hervás", "resultado": ""},
+        {"jugador1": "Juanfran Pérez", "jugador2": "Miguel Ángel López", "resultado": ""},
+        {"jugador1": "José Luis Fernández", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Adrián Iborra", "jugador2": "Descansa", "resultado": ""}
+      ]
+    }
+  ]
+}

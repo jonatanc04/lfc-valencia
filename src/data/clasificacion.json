@@ -1,0 +1,79 @@
+{
+  "clasificacion": [
+    {
+      "id": 1,
+      "nombre": "Adrián Iborra",
+      "imagen": "iborra.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Juan R. Puchades",
+      "imagen": "juan.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Aarón D. Nevado",
+      "imagen": "aaron.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Álex Hervás",
+      "imagen": "hervas.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Ximo Sala",
+      "imagen": "ximo.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Jonatan Córcoles",
+      "imagen": "jonatan.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Juanfran Pérez",
+      "imagen": "juanfran.png"
+    },
+    {
+      "id": 8,
+      "nombre": "José Luis Fernández",
+      "imagen": ""
+    },
+    {
+      "id": 9,
+      "nombre": "José Trilles",
+      "imagen": "trilles.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Roberto Arquimbau",
+      "imagen": "roberto.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Pablo Arquimbau",
+      "imagen": "pablo.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Héctor Beltrán",
+      "imagen": "hector.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Paco Villegas",
+      "imagen": "paco.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Miguel Ángel López",
+      "imagen": ""
+    },
+    {
+      "id": 15,
+      "nombre": "Mario Giménez",
+      "imagen": "mario.png"
+    }
+  ]
+}
