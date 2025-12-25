@@ -3,22 +3,22 @@
     {
       "id": 1,
       "nombre": "Richi Puchades",
-      "imagen": "richi.webp"
+      "imagen": "richi.png"
     },
     {
       "id": 2,
       "nombre": "Edu González",
-      "imagen": "edu.webp"
+      "imagen": "edu.png"
     },
     {
       "id": 3,
       "nombre": "Mario Giménez",
-      "imagen": "mario.webp"
+      "imagen": "mario.png"
     },
     {
       "id": 4,
       "nombre": "Erik del Río",
-      "imagen": ""
+      "imagen": "erik.png"
     },
     {
       "id": 5,
@@ -28,17 +28,17 @@
     {
       "id": 6,
       "nombre": "Luis Villegas",
-      "imagen": "luis.webp"
+      "imagen": "luis.png"
     },
     {
       "id": 8,
       "nombre": "Cristian Gallardo",
-      "imagen": "cristian.webp"
+      "imagen": "cristian.png"
     },
     {
       "id": 10,
       "nombre": "Adrián Sánchez",
-      "imagen": ""
+      "imagen": "sanchez.png"
     }
   ]
 }

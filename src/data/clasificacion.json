@@ -3,67 +3,67 @@
     {
       "id": 1,
       "nombre": "Adrián Iborra",
-      "imagen": "iborra.webp"
+      "imagen": "iborra.png"
     },
     {
       "id": 2,
       "nombre": "Juan R. Puchades",
-      "imagen": "juan.webp"
+      "imagen": "juan.png"
     },
     {
       "id": 3,
       "nombre": "Aarón D. Nevado",
-      "imagen": "aaron.webp"
+      "imagen": "aaron.png"
     },
     {
       "id": 4,
       "nombre": "Álex Hervás",
-      "imagen": "hervas.webp"
+      "imagen": "hervas.png"
     },
     {
       "id": 5,
       "nombre": "Ximo Sala",
-      "imagen": "ximo.webp"
+      "imagen": "ximo.png"
     },
     {
       "id": 6,
       "nombre": "Jonatan Córcoles",
-      "imagen": "jonatan.webp"
+      "imagen": "jonatan.png"
     },
     {
       "id": 7,
       "nombre": "Juanfran Pérez",
-      "imagen": "juanfran.webp"
+      "imagen": "juanfran.png"
     },
     {
       "id": 8,
       "nombre": "José Luis Fernández",
-      "imagen": ""
+      "imagen": "joseluis.png"
     },
     {
       "id": 9,
       "nombre": "José Trilles",
-      "imagen": "trilles.webp"
+      "imagen": "trilles.png"
     },
     {
       "id": 10,
       "nombre": "Roberto Arquimbau",
-      "imagen": "roberto.webp"
+      "imagen": "roberto.png"
     },
     {
       "id": 11,
       "nombre": "Pablo Arquimbau",
-      "imagen": "pablo.webp"
+      "imagen": "pablo.png"
     },
     {
       "id": 12,
       "nombre": "Héctor Beltrán",
-      "imagen": "hector.webp"
+      "imagen": "hector.png"
     },
     {
       "id": 13,
       "nombre": "Paco Villegas",
-      "imagen": "paco.webp"
+      "imagen": "paco.png"
     },
     {
       "id": 14,
@@ -73,7 +73,7 @@
     {
       "id": 15,
       "nombre": "Mario Giménez",
-      "imagen": "mario.webp"
+      "imagen": "mario.png"
     }
   ]
 }

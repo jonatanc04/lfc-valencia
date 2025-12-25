@@ -8,7 +8,7 @@ input_dir = "./"
 for filename in os.listdir(input_dir):
     if filename.lower().endswith(".png"):
         png_path = os.path.join(input_dir, filename)
-        webp_path = os.path.splitext(png_path)[0] + ".webp"
+        webp_path = os.path.splitext(png_path)[0] + ".png"
 
         # Abrir y convertir la imagen
         with Image.open(png_path) as img:

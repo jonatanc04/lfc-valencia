@@ -17,7 +17,7 @@
         {"jugador1": "Luis Villegas", "jugador2": "Adrián Sánchez", "resultado": "0-0"},
         {"jugador1": "Cristian Gallardo", "jugador2": "Alejandro González", "resultado": "1-1"},
         {"jugador1": "Edu González", "jugador2": "Mario Giménez", "resultado": ""},
-        {"jugador1": "Erik del Río", "jugador2": "Richi Puchades", "resultado": ""}
+        {"jugador1": "Erik del Río", "jugador2": "Richi Puchades", "resultado": "2-2"}
       ]
     },
     {
@@ -46,7 +46,7 @@
       "partidos": [
         {"jugador1": "Adrián Sánchez", "jugador2": "Erik del Río", "resultado": ""},
         {"jugador1": "Edu González", "jugador2": "Richi Puchades", "resultado": ""},
-        {"jugador1": "Cristian Gallardo", "jugador2": "Mario Giménez", "resultado": ""},
+        {"jugador1": "Cristian Gallardo", "jugador2": "Mario Giménez", "resultado": "0-6"},
         {"jugador1": "Luis Villegas", "jugador2": "Alejandro González", "resultado": ""}
       ]
     },
@@ -116,7 +116,7 @@
       "partidos": [
         {"jugador1": "Erik del Río", "jugador2": "Adrián Sánchez", "resultado": ""},
         {"jugador1": "Richi Puchades", "jugador2": "Edu González", "resultado": ""},
-        {"jugador1": "Mario Giménez", "jugador2": "Cristian Gallardo", "resultado": ""},
+        {"jugador1": "Mario Giménez", "jugador2": "Cristian Gallardo", "resultado": "2-3"},
         {"jugador1": "Alejandro González", "jugador2": "Luis Villegas", "resultado": ""}
       ]
     },
